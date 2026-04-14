@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1. Naufal - 102042330076
 2. Harits
 3. Aldinda
@@ -5,3 +6,12 @@
 5. Shafa
 6. Saffira
 7. Alvin
+=======
+1. Naufal -102042330076
+2. Harits
+3. Aldinda - 102042330051
+4. Reynaldi - 102042300068
+5. Shafa
+6. Saffira
+7. Ahmad Alvin - 102042330058
+>>>>>>> 321e145eb69d3c51aac0648755a319501b77bbb8
